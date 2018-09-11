@@ -1,0 +1,7 @@
+E:\visual studio 2015\GitHub\C-Homework\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\visual studio 2015\GitHub\C-Homework\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\visual studio 2015\GitHub\C-Homework\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\visual studio 2015\GitHub\C-Homework\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+E:\visual studio 2015\GitHub\C-Homework\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\visual studio 2015\GitHub\C-Homework\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\visual studio 2015\GitHub\C-Homework\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
